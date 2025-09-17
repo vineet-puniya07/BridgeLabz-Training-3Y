@@ -1,4 +1,4 @@
-package JavaFundamental;
+package javafundamental;
 
 public class CelsiustoFahrenheitConversion {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.bridgelabz.oops.inbuiltfunction;
+package this_static_final_key_word.Level_1;
 public class Patient {
    private static String hospitalName;
    private static int totalPatients = 0;

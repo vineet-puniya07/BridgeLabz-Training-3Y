@@ -1,4 +1,4 @@
-package com.bridgelabz.oops.inbuiltfunction;
+package this_static_final_key_word.Level_1;
 public class Vehicle {
    private static double registrationFee = 100.0;
    private final String registrationNumber;
